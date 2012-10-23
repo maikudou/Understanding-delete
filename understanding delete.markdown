@@ -1,6 +1,6 @@
 # Как работает оператор delete
 
-Перевод статьи Юрия "kangax" Зайцева [Understandig delete](http://perfectionkills.com/understanding-delete/)
+Перевод статьи Юрия "kangax" Зайцева [Understanding delete](http://perfectionkills.com/understanding-delete/)
 
 1. Теория
     1. Тип кода
