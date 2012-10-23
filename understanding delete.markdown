@@ -1,5 +1,7 @@
 # Как работает оператор delete
 
+Перевод статьи Юрия "kangax" Зайцева [Understandig delete](http://perfectionkills.com/understanding-delete/#activation_object_variable_object)
+
 1. Теория
     1. Тип кода
     2. Контекст выполнения
